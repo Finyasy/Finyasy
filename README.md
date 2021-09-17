@@ -1,8 +1,11 @@
-### Hello,Folks! 👋
+###  Hello,Folks! 👋
 #### I am Bryan Bosire a Data Scientist/ML Engineer currently based in Nairobi,Kenya.
-#### 💬 Ask me about Machine Learning,NLP,Computer Vision and Data Analytics.
-## ![image]({https://www.google.com/url?sa=i&url=https%3A%2F%2Femojigraph.org%2Fhammer-and-wrench%2F&psig=AOvVaw0ZC0k4nhVvVQimriT3FMpB&ust=1631978979212000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiYxsCBhvMCFQAAAAAdAAAAABAD})
-
+#### 💬 Ask me about Machine Learning,Neural Networks,NLP,Computer Vision and Data Analytics.
+## 🛠️ My favorite tools
+#### 👨‍💻 Programming languages
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### 🧰 Frameworks and libraries
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 <!--
 **Finyasy/Finyasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
