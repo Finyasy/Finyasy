@@ -16,8 +16,23 @@
 ![](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white) ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) ![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
 #### 👩‍💻 IDE
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-#### 🔁 Dynamic
-![](https://github-readme-streak-stats.herokuapp.com/?user={username})
+#### 📊 Github stats
+<a href="https://github.com/Finyasy/Finyasy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Finyasy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bryan's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Finyasy/Finyasy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finyasy&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+<!-- https://github.com/Finyasy/github-readme-activity-graph -->
+<a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Bryan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Finyasy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+ 
+<p align='center'>For enquiries, reach out at bryanbosire@gmail.com or even on <a href="https://www.linkedin.com/in/bryan-bosire-a67a1078/">LinkedIn</a>.</p>
+  
+<h1 align='center'><i>Stay awesome!</i></h1>
+</a>
 <!--
 **Finyasy/Finyasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
