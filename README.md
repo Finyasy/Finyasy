@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+#### I am Bryan Bosire a Data Scientist and ML Engineer specializing in NLP and Data Analytics,currently based in Nairobi-Kenya.
+## Technologies
+![](https://img.shields.io/badge/
+<WORD_LEFT>-<WORD_RIGHT>-informational
+?style=flat&logo=<LOGONAME>
+&logoColor=white&color=2bbc8a)
 <!--
 **Finyasy/Finyasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
