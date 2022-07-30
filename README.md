@@ -1,5 +1,5 @@
 ###  Hello,Folks! 👋
-#### I am Bryan Bosire a Data Scientist/ML Engineer currently based in Nairobi,Kenya.
+#### I am Bryan a Data Scientist/ML Engineer currently based in Nairobi,Kenya.
 #### 👨‍💻 Programming languages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 #### 📊 Github stats
