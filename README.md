@@ -10,10 +10,6 @@
 <a href="https://github.com/Finyasy/Finyasy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finyasy&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-
-<!-- https://github.com/Finyasy/github-readme-activity-graph -->
-<a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Bryan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Finyasy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
  
 <p align='center'>For enquiries, reach out at bryanbosire@gmail.com or even on <a href="https://www.linkedin.com/in/bryan-bosire-a67a1078/">LinkedIn</a>.</p>
   
