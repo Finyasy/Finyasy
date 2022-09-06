@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/Finyasy/Finyasy"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finyasy&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finyasy&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </a>
  
 <p align='center'>For enquiries, reach out at bryanbosire@gmail.com or even on <a href="https://www.linkedin.com/in/bryan-bosire-a67a1078/">LinkedIn</a>.</p>
