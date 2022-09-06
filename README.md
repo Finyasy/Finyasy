@@ -7,8 +7,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Finyasy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bryan's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Finyasy/Finyasy"> 
-  <img center="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finyasy&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
+<a href="https://github.com/Finyasy/Finyasy">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finyasy&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </a>
  
 <p align='center'>For enquiries, reach out at bryanbosire@gmail.com or even on <a href="https://www.linkedin.com/in/bryan-bosire-a67a1078/">LinkedIn</a>.</p>
