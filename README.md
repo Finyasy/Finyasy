@@ -4,10 +4,7 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 #### 📊 Github stats
 <a href="https://github.com/Finyasy/Finyasy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Finyasy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bryan's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Finyasy/Finyasy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Finyasy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finyasy&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </a>
