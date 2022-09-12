@@ -1,7 +1,7 @@
 ###  Hello,Folks! 👋
 #### I am Bryan a Data Scientist/ML Engineer currently based in Nairobi,Kenya.
 #### 👨‍💻 Programming languages
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) <a href=""> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="22px"> </a>
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 #### 📊 Github stats
 <p float="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Finyasy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
