@@ -1,7 +1,6 @@
 ###  Hello,Folks! 👋
-#### I am Bryan a Data Scientist/ML Engineer currently based in Nairobi,Kenya.
+#### I am Bryan a Machine Learning Engineer currently based in Nairobi,Kenya.
 #### 👨‍💻 Programming languages
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)![](https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white)
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -24,6 +23,10 @@
              <td width="80px" align="center">
             <span><strong>Django</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Rails</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Flask</strong></span><br>
