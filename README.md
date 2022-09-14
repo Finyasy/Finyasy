@@ -1,6 +1,6 @@
-###  Hello,Folks! 👋
+###  Hello Folks! 👋
 #### I am Bryan a Machine Learning Engineer currently based in Nairobi,Kenya.
-#### 👨‍💻 Programming languages
+#### 👨‍💻 Tech Stack
 <table width="320px">
     <tbody>
         <tr valign="top">
