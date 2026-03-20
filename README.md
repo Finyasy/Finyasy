@@ -1,41 +1,42 @@
 ###  Hello Folks! 👋
 #### I am Bryan a Machine Learning Engineer currently based in Nairobi,Kenya.
 #### 👨‍💻 Tech Stack
-<table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            </td>
-             <td width="80px" align="center">
-            <span><strong>PyTorch</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-            </td>
-             <td width="80px" align="center">
-            <span><strong>FastAPI</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-            </td>
-             <td width="80px" align="center">
-            <span><strong>Django</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Rails</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Flask</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
-            </td>
-          </tr>
-    </tbody>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=000000" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JAX-0A66C2?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
 </table>
-
 
 #### 📊 Github stats
 <p float="left">
